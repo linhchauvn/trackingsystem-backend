@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1">
+	<metadata>
+		<name>GPX name</name>
+		<desc>GPX description</desc>
+		<author>chaul</author>
+		<link href="http://www.oruxmaps.com">
+			<text>OruxMaps</text>
+		</link>
+		<time>2017-10-22T09:41:33Z</time>
+	</metadata>
+	<wpt lat="42.2205377" lon="-1.4564538">
+		<name>Sorteamos por arriba</name>
+		<sym>/static/wpt/Waypoint</sym>
+	</wpt>
+	<wpt lat="42.2208346" lon="-1.4544232">
+		<name>Senda</name>
+		<sym>/static/wpt/Waypoint</sym>
+	</wpt>
+	<trk>
+		<trkseg>
+			<trkpt lat="42.2208895" lon="-1.4580696">
+				<ele>315.86</ele>
+				<time>2017-10-22T09:41:38Z</time>
+			</trkpt>
+			<trkpt lat="42.2208228" lon="-1.458099">
+				<ele>316.03888000000006</ele>
+				<time>2017-10-22T09:43:18Z</time>
+			</trkpt>
+		</trkseg>
+		<trkseg>
+			<trkpt lat="42.21881254635892" lon="-1.4441174268722534">
+				<ele>335.52720000000005</ele>
+				<time>2017-10-22T12:11:00Z</time>
+			</trkpt>
+			<trkpt lat="42.218808573556615" lon="-1.4442113041877747">
+				<ele>335.73888000000005</ele>
+				<time>2017-10-22T12:11:04Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
